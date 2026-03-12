@@ -10,7 +10,7 @@
       "type": "remote",
       "url": "https://mcp.context7.com/mcp",
       "headers": {
-        "CONTEXT7_API_KEY": "ctx7sk-e9d541e0-1262-4605-a9a5-f7c22e9a28d1"
+        "CONTEXT7_API_KEY": "API_KEY"
       },
       "enabled": true
     },
@@ -21,7 +21,7 @@
     },
     "exa": {
       "type": "remote",
-      "url": "https://mcp.exa.ai/mcp?exaApiKey=c7e43c3b-eb7c-41aa-9e11-b745ff1dd266&tools=web_search_exa,get_code_context_exa,company_research_exa,web_search_advanced_exa,crawling_exa,people_search_exa,deep_researcher_start,deep_researcher_check",
+      "url": "https://mcp.exa.ai/mcp?exaApiKey=XXXXXX&tools=web_search_exa,get_code_context_exa,company_research_exa,web_search_advanced_exa,crawling_exa,people_search_exa,deep_researcher_start,deep_researcher_check",
       "enabled": true
     }
   }
